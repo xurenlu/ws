@@ -1,1 +1,1 @@
-web: go-getting-started
+web: /app/bin/go-getting-started
